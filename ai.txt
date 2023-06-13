@@ -1,0 +1,11 @@
+pip install --user tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install --user --upgrade --ignore-installed tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install --user ipywidgets -i https://pypi.tuna.tsinghua.edu.cn/simple/
+jupyter nbextension enable --py widgetsnbextension
+
+supervised learning
+	regression
+	classification
+
+unsupervised learning
+	clustering
